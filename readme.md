@@ -11,6 +11,7 @@ Python (pandas, numpy)
 VS Code (or any code editor)
 CSV files (for data storage and sharing)
 SQL (for querying and analysis)
+
 Project Steps & Explanations
 
 1. Data Generation
